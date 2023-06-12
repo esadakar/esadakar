@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://media.licdn.com/dms/image/D4D16AQEw8H_FMJkXlg/profile-displaybackgroundimage-shrink_350_1400/0/1677254385363?e=1683763200&v=beta&t=-F5UCsCBNnG0caBTO5Xbqdp1LjzUxP1Le70WMNaxW_U "AyaSofia")
+![alt text]([https://media.licdn.com/dms/image/D4D16AQEw8H_FMJkXlg/profile-displa](https://media.licdn.com/dms/image/D4D16AQEw8H_FMJkXlg/profile-displaybackgroundimage-shrink_200_800/0/1677254385363?e=1692230400&v=beta&t=XJcX2weOp_JK_WWjuWAxdXI-Zvvn4QVL6R-n4SEtvGA "AyaSofia")
