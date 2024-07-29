@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://imagedelivery.net/9sCnq8t6WEGNay0RAQNdvQ/UUID-cl90hbwei7599499tqym9t5l2ls/public)
+![alt text](https://drive.usercontent.google.com/uc?id=1HfAzScxVWns5mFPCCERHa1SM1OvYSZ-I&export=download)
